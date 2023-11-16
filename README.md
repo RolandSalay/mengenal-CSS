@@ -1,2 +1,2 @@
-# mengenal-CSS
-bellajar mengenal CSS &amp; HTML
+# mengenal-css
+📚menulis css dengan inline css, external css, dan internal css
